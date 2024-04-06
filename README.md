@@ -1,7 +1,7 @@
-# Olá! Eu sou o Júlio Lima 🖐️
-<p align="center">
+<h2 align="center">Olá! Eu sou o Júlio Lima 🖐️</h2>
+<div align="center">
 <img height="500" width="900" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
-</p>
+</div>
 
 
 ## Minha Jornada
