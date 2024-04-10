@@ -9,7 +9,7 @@
 - 📚 Atualmente estou participando do bootcamp de Desenvolvimento Web da TripleTen.
 - 💼 Trabalho em diversos projetos web, incluindo sites, aplicativos e análise de dados.
 - 🖥️ Sempre em busca de aprender novas tecnologias e tendências do desenvolvimento web.
-- 📊📈 Sempre fui muito apaixonado por estatíticas, gráficos, planilhas e tabelas.
+- 📊📈 Sempre fui muito interessado por estatíticas, gráficos, planilhas e tabelas.
 - Mais informações de contato disponíveis no meu linkedin: https://www.linkedin.com/in/j%C3%BAlio-lima-445562148/
 
 ## Meus Projetos
